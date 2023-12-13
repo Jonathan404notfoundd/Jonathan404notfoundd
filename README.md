@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+[![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
 <h1 align="center">Hi 👋, I'm Jonathan James</h1>
 <h3 align="center">New in here</h3>
 
