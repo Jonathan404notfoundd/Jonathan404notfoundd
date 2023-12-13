@@ -9,7 +9,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dope_biilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dope_biilla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dopebilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dopebilla" height="30" width="40" /></a>
+<a href="https://fb.com/dopebilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dopebilla" height="30" width="40" /></a>
+<a href="https://instagram.com/dopebilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dopebilla" height="30" width="40" /></a>
+<a href="https://www.behance.net/dopebilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dopebilla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dopebilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dopebilla" height="30" width="40" /></a>
 <a href="https://discord.gg/3Qj8mSHD9T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3Qj8mSHD9T" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan404notfoundd&show_icons=true&theme=dark&locale=en" alt="jonathan404notfoundd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan404notfoundd&theme=dark" alt="jonathan404notfoundd" /></p>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Jonathan404notfoundd/502" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan404notfoundd&repo=502&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
