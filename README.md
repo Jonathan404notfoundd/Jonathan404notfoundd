@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan404notfoundd&theme=dark" alt="jonathan404notfoundd" /></p>
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Jonathan404notfoundd/502" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan404notfoundd&repo=502&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/Jonathan404notfoundd/Jonathan404notfoundd" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan404notfoundd&repo=Jonathan404notfoundd&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
